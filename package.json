@@ -1,9 +1,9 @@
 {
-  "name": "@cheeseswapfinance/web3-react-types",
+  "name": "@web3react/types",
   "publishConfig": {
     "access": "public"
   },
-  "version": "7.1.2",
+  "version": "7.2.1",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
   "author": "Tanvir Rahaman <bitbd83@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cheeseswapbsc/web3-react-types.git"
+    "url": "https://github.com/cheeseswapbsc/web3react-types"
   },
   "main": "dist/index.js",
   "module": "dist/types.esm.js",
@@ -37,8 +37,7 @@
     "node": ">=16.0.0"
   },
   "devDependencies": {
-    "tsdx": "^0.11.0"
-  },
+    },
   "license": "GPL-3.0-or-later",
   "dependencies": {}
 }
